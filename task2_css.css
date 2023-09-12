@@ -1,0 +1,32 @@
+#z {
+    list-style-type: none;
+    margin: auto;
+    padding: 10px;
+    background-color: silver;
+    width: 400px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    display: flex;
+    text-align: center;
+}
+
+li a{
+    display: block;
+    text-decoration: none;
+    padding: 8px 16px;
+}
+li a:hover {
+background-color: yellow;
+}
+h1{
+
+text-align: center;
+}
+#a{
+list-style-type: none;
+margin: 5px;
+padding: 5px;
+width: 150px;
+background-color: skyblue;
+border: 1px solid black;
+}

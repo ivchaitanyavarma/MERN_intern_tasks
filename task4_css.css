@@ -1,0 +1,51 @@
+#a{
+    background-color: green;
+}
+
+#b{
+    background-color: blue;
+}
+
+#c{
+    background-color: red;
+}
+
+#d{
+    background-color: black;
+}
+
+div button{
+    border: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 25px;
+    padding: 30px 25px;
+    
+    margin-bottom: 10px;
+}
+
+#e{
+    /* align-items:; */
+    border: 1px solid black;
+    box-sizing:border-box;
+    height: 400px;
+    width: 600px;
+}
+
+#f{
+    width: 15%;
+    float: left;
+}
+
+#g{
+    width:85%;
+    float: left;
+    padding-top: 0px;
+    align-items: flex-start;
+}
+
+button:hover{
+    transition: 0.25s;
+    padding:35px 30px;
+}
+
